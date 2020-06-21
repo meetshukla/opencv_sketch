@@ -1,4 +1,4 @@
-# opencv_sketch
+# Opencv Sketch
 
 ### The follwing repository contains code to convert any image using opencv functions
 
